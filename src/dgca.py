@@ -1,5 +1,13 @@
 """
-Contains the main DGCA class
+Copyright (c) 2023, Riversdale Waldegrave
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree. 
+
+Contains the main DGCA class, 
+functions for running the system for a fixed number of steps,
+functions for categorising the behaviour of the system.
 """
 # %%
 from __future__ import annotations
