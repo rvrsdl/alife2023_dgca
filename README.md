@@ -13,5 +13,5 @@ The repository is organised as follows:
     - `worked_example.py`: code for the worked example in the first paper [1], going through how a single update step of the system works. **This is a good place to start.**
     - `space_time_example.py`: running a DGCA system for a fixed number of timesteps and plotting the behaviour as a space-time diagram.
     - `behaviour classes`: measuring the occurence of five different classes of dynamical behaviour of the system,as set out in the first paper [1].
-    - `random_vs_novelty_search.py`: comparing the behaviour of the system found with random search vs novelty search.
+    - `random_vs_novelty_search.py`: comparing the behaviour of the system found with random search vs novelty search as used in the experiment in the second paper [2].
     
